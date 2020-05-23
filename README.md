@@ -1,3 +1,3 @@
 # cellular-automata
 
-simpler cellular automata written in c++ with SFML
+simple cellular automata written in c++ with SFML
