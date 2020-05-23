@@ -1,0 +1,35 @@
+﻿cl : command line warning D9025: overriding '/analyze-' with '/analyze:stacksize100000.'
+  main.cpp
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(28,19): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(45,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(47,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(53,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(53,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(55,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(55,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(87,33): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(105,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(110,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(115,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(120,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(126,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(131,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(136,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\sfmlTesting\sfmlTesting\main.cpp(141,32): warning C4804: '<': unsafe use of type 'bool' in operation
+  sfmlTesting.vcxproj -> C:\Users\maly.josef.2017\source\repos\sfmlTesting\Debug\sfmlTesting.exe

@@ -1,0 +1,40 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (sfmlTesting.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9025: overriding '/analyze-' with '/analyze:stacksize100000.'
+  main.cpp
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(20,19): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(37,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(39,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(45,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(45,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(47,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(47,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(79,33): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(97,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(102,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(107,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(112,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(118,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(123,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(128,32): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\maly.josef.2017\source\repos\cellular automata\sfmlTesting\main.cpp(133,32): warning C4804: '<': unsafe use of type 'bool' in operation
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sfmlTesting.vcxproj -> C:\Users\maly.josef.2017\source\repos\cellular automata\Release\cellular automata.exe
